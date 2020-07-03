@@ -1,33 +1,24 @@
-# Movie App
-Movie App is an app that pulls the top 20 movies from TheMovieDB API and displays it using a modern UI with full dark mode support.
-Main features include :
-* Showing the top 20 movies dynamically on a card layout
-* Ability to search within the top 20 movies
-* Ability to save movies to favorites
-* Ability to delete movies from the favorites list
-* And more
-## 
-# Technologies used:
+# StarWars API
+This app is basically just consuming starwars api data including characters, starships, vehicles, starships. And displaying the data by tapping the random button.
+
+
+***
+
+
+# Technology used:
 * Xcode
-* Swift
-* Fully programmatic UI
-* MVC Design Pattern
+* Swift 5
 * UIKit
-* UICollectionView
-* Custom CollectionViewCell
-* UITableView
-* Custom TableViewCell
-* UserDefaults
-* Custom UIAlert
-* Networking
-* Public APIs
-* JSON Parsing
-* Custom UIImageView
-* Custom UILabel
-* Custom UIButton
-##
-# Screenshots
-<img src="https://github.com/SnowedIn-Create/MovieApp/blob/master/MATopLight.png" width= 350 height= 720>     <img src="https://github.com/SnowedIn-Create/MovieApp/blob/master/MATopDark.png" width= 350 height= 720>
-<img src="https://github.com/SnowedIn-Create/MovieApp/blob/master/MASearch.png" width= 350 height= 720> <img src="https://github.com/SnowedIn-Create/MovieApp/blob/master/MAFaveLight.png" width= 350 height= 720>
-<img src="https://github.com/SnowedIn-Create/MovieApp/blob/master/MAFaveDark.png" width= 350 height= 720> <img src="https://github.com/SnowedIn-Create/MovieApp/blob/master/MADetailLight.png" width= 350 height= 720>
-<img src="https://github.com/SnowedIn-Create/MovieApp/blob/master/MADetailDark.png" width= 350 height= 720> <img src="https://github.com/SnowedIn-Create/MovieApp/blob/master/MADelete.png" width= 350 height= 720>
+* MVC
+* Networking (Alamofire, URLSession)
+* JSON Parsing (Codable, SwiftyJSON, Manual)
+* Public API
+
+***
+
+# Screencasts
+<a href="https://imgur.com/3LQEcMz"><img align="left" width="320" height="520" src="https://i.imgur.com/3LQEcMz.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/K7hAh4l"><img align="left" width="320" height="520" src="https://i.imgur.com/K7hAh4l.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/EoBoYau"><img align="left" width="320" height="520" src="https://i.imgur.com/EoBoYau.png" title="source: imgur.com" /></a>
+![](https://giphy.com/gifs/Xb6yqYLgqh9lHsDt65/html5)
+![](https://media.giphy.com/media/Xb6yqYLgqh9lHsDt65/giphy.gif)
