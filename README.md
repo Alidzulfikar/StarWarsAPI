@@ -1,5 +1,5 @@
 # StarWars API
-This app is basically just consuming starwars api data including characters, starships, vehicles, starships. And displaying the data by tapping the random button.
+This app is basically just consuming starwars api data including characters, planets, starships, vehicles & films. And displaying the data by tapping the random button.
 
 
 ***
